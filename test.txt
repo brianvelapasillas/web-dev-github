@@ -1,0 +1,3 @@
+This is a commit from branch feature!
+
+And here we go with commit #2!
